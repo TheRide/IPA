@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{C2EDD096-45AC-4EDD-B793-9D6DB568E50F}</ProjectGuid>
+    <ProjectGuid>{3DC4C25B-9C76-461C-A024-4C4EAA7516B3}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DiscoveryFirstTest</RootNamespace>
-    <AssemblyName>DiscoveryFirstTest</AssemblyName>
+    <RootNamespace>Service</RootNamespace>
+    <AssemblyName>Service</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <WcfConfigValidationEnabled>True</WcfConfigValidationEnabled>
     <UseIISExpress>true</UseIISExpress>
@@ -93,9 +93,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>2168</DevelopmentServerPort>
+          <DevelopmentServerPort>2574</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:2168/</IISUrl>
+          <IISUrl>http://localhost:2574/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
